@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyogidental_site=self.webpackChunkyogidental_site||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/blogs","blogTitle":"Blogs","authorsListPath":"/blogs/authors"}')}}]);

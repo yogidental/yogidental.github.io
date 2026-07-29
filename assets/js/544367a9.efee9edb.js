@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyogidental_site=self.webpackChunkyogidental_site||[]).push([["8253"],{7842(e){e.exports=JSON.parse('{"tags":[{"label":"Blogs","permalink":"/blogs/tags/blogs-tag","description":"Posts from Yogi Dental Center","count":9}]}')}}]);

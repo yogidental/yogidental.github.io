@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyogidental_site=self.webpackChunkyogidental_site||[]).push([["7583"],{2412(e){e.exports=JSON.parse('{"authors":[{"name":"Yogi Dental Center","title":"Gentle Family & Cosmetic Dentistry, Orange NJ","url":"https://yogidental.com","imageURL":"/img/logo.jpeg","key":"yogidental","page":null,"count":9}]}')}}]);
